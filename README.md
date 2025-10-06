@@ -1,5 +1,7 @@
 # 🤖 Telegram Assistant Bot Workflow (n8n)
+## 🎥 Demo
 
+Watch the workflow in action: https://drive.google.com/file/d/1XBYWTcG_qPw-WCXhxoqnRkfFKYRsQp_G/view?usp=drivesdk
 This n8n workflow connects to Telegram and acts like a smart assistant:
 - Replies to text messages
 - Transcribes voice messages using Deepgram
